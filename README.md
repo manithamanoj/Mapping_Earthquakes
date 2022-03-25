@@ -7,8 +7,11 @@ In this challenge we are going to create the map of the earthquake data in relat
 ### Technology used
 
 JavaScript
+
 Leaflet.js
+
 geoJSON data
+
 HTML
 
 ## Analysis
