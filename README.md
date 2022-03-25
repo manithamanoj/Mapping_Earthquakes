@@ -41,3 +41,4 @@ The viewer can toggle between different layers to view either all earthquakes, o
 
 
 Major earthquakes data map shows that major earthquakes (over 4.5 magnitude) in the last week have all occurred near or on the tectonic plates.
+<img width="1440" alt="Screen Shot 2022-03-25 at 10 59 08 AM" src="https://user-images.githubusercontent.com/72629108/160178088-628deea3-4c9a-42e9-9bdb-fd96bd182297.png">
